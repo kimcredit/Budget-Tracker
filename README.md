@@ -27,6 +27,9 @@ THEN that transaction is stored and updates transaction history when my connecti
 The starter code of this application was provided by Trilogy Education Services for the JHU Web Development Bootcamp. It uses
 [Express](https://www.npmjs.com/package/express), [Node](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://www.npmjs.com/package/mongoose/), and [Compress](https://www.npmjs.com/package/compression).
 
+## View App
+You can preview this app at <https://github.com/kimcredit>.    
+
 ## Other Work
 You can see some of my other work at <https://github.com/kimcredit>.    
 
