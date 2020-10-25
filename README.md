@@ -28,7 +28,7 @@ The starter code of this application was provided by Trilogy Education Services 
 [Express](https://www.npmjs.com/package/express), [Node](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://www.npmjs.com/package/mongoose/), and [Compress](https://www.npmjs.com/package/compression).
 
 ## View App
-You can preview this app at <https://github.com/kimcredit>.    
+You can preview this app at <https://kcredit-budget-tracker.herokuapp.com/>.    
 
 ## Other Work
 You can see some of my other work at <https://github.com/kimcredit>.    
